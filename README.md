@@ -5,3 +5,11 @@ Statistical analysis and predictive modeling of alpine butterfly populations usi
 ## 📄 Final Report
 
 👉 **[View the rendered PDF report](rendered_pdf/mini_project.pdf)**
+
+
+## 📁 Repository Structure
+
+- `code/` – RMarkdown source files and analysis scripts  
+- `data/` – Cleaned butterfly population and weather datasets  
+- `rendered_pdf/` – Compiled PDF report for submission  
+- `README.md` – Project overview and navigation
