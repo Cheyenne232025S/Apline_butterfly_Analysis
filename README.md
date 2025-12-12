@@ -13,3 +13,13 @@ Statistical analysis and predictive modeling of alpine butterfly populations usi
 - `data/` – Cleaned butterfly population and weather datasets  (training set seperate from testing)
 - `rendered_pdf/` – Compiled PDF report for submission  
 - `README.md` – Project overview and navigation
+
+
+## 🧠 Methods Overview
+
+This analysis incorporates methods from across the course, including:
+- Exploratory data analysis and variable screening
+- Multiple linear regression
+- Time-series regression with autoregressive terms
+- Generalized linear models (GLMs)
+- Model comparison using in-sample and out-of-sample metrics
