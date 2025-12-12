@@ -4,4 +4,4 @@ Statistical analysis and predictive modeling of alpine butterfly populations usi
 
 ## 📄 Final Report
 
-👉 **[View the rendered PDF report](rendered_pdf/Alpine_butterfly_Analysis.pdf)**
+👉 **[View the rendered PDF report](rendered_pdf/mini_project.pdf)**
